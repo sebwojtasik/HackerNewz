@@ -3,7 +3,7 @@
 ![preview](/preview.png)
 Hackernews client SPA made in React.
 
-Live demo: [hackernewz.netlify.app](https://hackernewz.netlify.app/top)
+Live demo: [hackernewz.netlify.app](https://hackernewz.netlify.app/)
 
 ## Libraries used:
 
