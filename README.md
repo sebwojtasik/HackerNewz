@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# TextEditor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![preview](/preview.png)
+Hackernews client SPA made in React.
+[texteditor-sebwojtasik.netlify.app](https://texteditor-sebwojtasik.netlify.app/)
+
+## Libraries used:
+
+- React
+- styled-components
+- react-content-loader
+- react-router
 
 ## Available Scripts
 
